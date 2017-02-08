@@ -1,0 +1,23 @@
+/*
+*  Refresh-Browser	
+*/
+
+/* Variables */
+$colorAzul: steelblue;
+$colorGris: gray;
+$font: Helvetica, sans-serif;
+
+
+body{
+	background: $colorAzul;
+	font-family: $font;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+h3{
+	color: $colorGris;
+	font-size: 18px;
+	border: 1px solid #000;
+}
